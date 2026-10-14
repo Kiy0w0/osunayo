@@ -1,5 +1,10 @@
 # osunayo
 
+[![Rust](https://github.com/Kiy0w0/osunayo/actions/workflows/rust.yml/badge.svg)](https://github.com/Kiy0w0/osunayo/actions/workflows/rust.yml)
+[![license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![osu!lazer](https://img.shields.io/badge/osu%21lazer-2026.1005.0-ff66aa.svg)](output/info.json)
+[![rustc](https://img.shields.io/badge/rustc-1.85%2B-dea584.svg?logo=rust)](https://doc.rust-lang.org/edition-guide/rust-2024/)
+
 Static field-offset dumper for [osu!lazer](https://github.com/ppy/osu), laid out like
 [a2x/cs2-dumper](https://github.com/a2x/cs2-dumper).
 
@@ -43,7 +48,7 @@ osunayo verify path/to/lazer.md
 ```
 
 The install directory defaults to `%LOCALAPPDATA%\osulazer\current`; set `OSU_LAZER` to override
-it.
+it. Building needs Rust 1.85+ (edition 2024).
 
 ## Output
 
@@ -82,23 +87,24 @@ characters).
 ## Accuracy
 
 `verify` against a 185-entry `layouts[2026.1005.0]` reference dump resolves 184 entries and
-reports 77 exact matches (41.8%). The disagreements are structured, not random:
+reports 108 exact matches (58.7%). The disagreements are structured, not random:
 
-- all 184 resolved entries are internally consistent — zero misaligned, zero overlapping, zero
-  beyond the computed type size;
+- all 184 resolved offsets fit inside the computed type size — zero misaligned, zero overlapping,
+  zero beyond it;
 - the ordering rule reproduces the reference exactly for
   `osu.Game.Online.Multiplayer.MultiplayerRoomUser` (8/8 of its entries, including the
   non-obvious struct-last placement) and for `osu.Framework.Timing.FramedClock.<CurrentTime>`;
-- restricted to types whose base class is `System.Object`, field order agrees 78% of the time; of
-  eleven candidate ordering algorithms implemented for comparison, this one scores highest
-  (runner-up: 62%).
+- it also scores highest of the eleven candidate ordering rules implemented for comparison:
+  108/184 (58.7%) overall against a 75/184 (40.8%) runner-up, and 47/50 (94.0%) over the 17 types
+  whose first-field delta is already zero, against a 31/50 (62.0%) runner-up.
 
-The residual error is confined to deep `osu.Framework` base chains and is always a multiple of 8:
-the first-field delta against the reference is −8 for types deriving directly from `Drawable`,
+The residual error is confined to deep `osu.Framework` base chains and is usually a multiple of 8:
+the first-field delta against the reference is −8 for types deriving directly from `Drawable` and
 −16 for types deriving from `CompositeDrawable` or `Game`, so the computed base block accumulates
 extra bytes somewhere in those classes. That is a struct size in my model running slightly large,
-not the ordering rule. Offsets for types near `System.Object` are exact; offsets for types deep
-inside `osu.Framework` should be confirmed against the running process.
+not the ordering rule; a handful of types drift further (−48, −340) or the other way (+240).
+Offsets for types near `System.Object` are exact; offsets for types deep inside `osu.Framework`
+should be confirmed against the running process.
 
 ## License
 
