@@ -109,11 +109,11 @@ namespace osu_Game_Auth_dll {
     }
     namespace t_u0003u0019 {
         constexpr std::ptrdiff_t f_u0006 = 0x20;
-        constexpr std::ptrdiff_t f_u0005 = 0x18;
+        constexpr std::ptrdiff_t f_u0005 = 0x8;
         constexpr std::ptrdiff_t f_u000f = 0x28;
         constexpr std::ptrdiff_t f_u0002 = 0x24;
-        constexpr std::ptrdiff_t f_u0008 = 0x8;
-        constexpr std::ptrdiff_t f_u0003 = 0x10;
+        constexpr std::ptrdiff_t f_u0008 = 0x10;
+        constexpr std::ptrdiff_t f_u0003 = 0x18;
     }
     namespace t_u0003u001a {
         constexpr std::ptrdiff_t f_u0006 = 0x18;
@@ -127,8 +127,8 @@ namespace osu_Game_Auth_dll {
         constexpr std::ptrdiff_t f_u0005u0015 = 0x1C;
     }
     namespace t_u0003u001au0018_u0006 {
-        constexpr std::ptrdiff_t f_u0006 = 0x10;
-        constexpr std::ptrdiff_t f_u0005 = 0x8;
+        constexpr std::ptrdiff_t f_u0006 = 0x8;
+        constexpr std::ptrdiff_t f_u0005 = 0x10;
     }
     namespace t_u0003u001b {
         constexpr std::ptrdiff_t f_u0006 = 0x8;
@@ -147,8 +147,8 @@ namespace osu_Game_Auth_dll {
         constexpr std::ptrdiff_t f__invocationCount = 0x30;
     }
     namespace t_u0005u0002 {
-        constexpr std::ptrdiff_t f_u0006 = 0x10;
-        constexpr std::ptrdiff_t f_u0005 = 0x8;
+        constexpr std::ptrdiff_t f_u0006 = 0x8;
+        constexpr std::ptrdiff_t f_u0005 = 0x10;
     }
     namespace t_u0005u0003 {
         constexpr std::ptrdiff_t f_u0006 = 0x8;
@@ -238,9 +238,9 @@ namespace osu_Game_Auth_dll {
     namespace t_u0006u000fu0018 {
         constexpr std::ptrdiff_t f_u0006 = 0x10;
         constexpr std::ptrdiff_t f_u0005 = 0x8;
-        constexpr std::ptrdiff_t f_u0006_1 = 0x28;
-        constexpr std::ptrdiff_t f_u0005_1 = 0x18;
-        constexpr std::ptrdiff_t f_u000f = 0x20;
+        constexpr std::ptrdiff_t f_u0006_1 = 0x18;
+        constexpr std::ptrdiff_t f_u0005_1 = 0x20;
+        constexpr std::ptrdiff_t f_u000f = 0x28;
     }
     namespace t_u0006u0015 {
         constexpr std::ptrdiff_t f_u0006 = 0x10;
@@ -274,17 +274,17 @@ namespace osu_Game_Auth_dll {
     }
     namespace t_u0006u001au0018 {
         constexpr std::ptrdiff_t f_u0006 = 0x8;
-        constexpr std::ptrdiff_t f_u0005 = 0x48;
-        constexpr std::ptrdiff_t f_u000f = 0x10;
-        constexpr std::ptrdiff_t f_u0002 = 0x18;
-        constexpr std::ptrdiff_t f_u0008 = 0x20;
-        constexpr std::ptrdiff_t f_u0003 = 0x28;
+        constexpr std::ptrdiff_t f_u0005 = 0x10;
+        constexpr std::ptrdiff_t f_u000f = 0x18;
+        constexpr std::ptrdiff_t f_u0002 = 0x20;
+        constexpr std::ptrdiff_t f_u0008 = 0x28;
+        constexpr std::ptrdiff_t f_u0003 = 0x30;
         constexpr std::ptrdiff_t f_u000e = 0x58;
         constexpr std::ptrdiff_t f_u0006u0015 = 0x59;
         constexpr std::ptrdiff_t f_u0005u0015 = 0x50;
-        constexpr std::ptrdiff_t f_u000fu0015 = 0x30;
-        constexpr std::ptrdiff_t f_u0002u0015 = 0x38;
-        constexpr std::ptrdiff_t f_u0008u0015 = 0x40;
+        constexpr std::ptrdiff_t f_u000fu0015 = 0x38;
+        constexpr std::ptrdiff_t f_u0002u0015 = 0x40;
+        constexpr std::ptrdiff_t f_u0008u0015 = 0x48;
     }
     namespace t_u0006u001au0018_u0002 {
         constexpr std::ptrdiff_t f__target = 0x8;
@@ -295,8 +295,8 @@ namespace osu_Game_Auth_dll {
         constexpr std::ptrdiff_t f__invocationCount = 0x30;
     }
     namespace t_u0006u001au0018_u0006 {
-        constexpr std::ptrdiff_t f_u0006 = 0x10;
-        constexpr std::ptrdiff_t f_u0005 = 0x8;
+        constexpr std::ptrdiff_t f_u0006 = 0x8;
+        constexpr std::ptrdiff_t f_u0005 = 0x10;
     }
     namespace t_u0006u001au0018_u0008 {
         constexpr std::ptrdiff_t f__target = 0x8;
@@ -374,10 +374,10 @@ namespace osu_Game_Auth_dll {
     namespace t_u0008u0019 {
         constexpr std::ptrdiff_t f_u0006 = 0x30;
         constexpr std::ptrdiff_t f_u0005 = 0x8;
-        constexpr std::ptrdiff_t f_u000f = 0x28;
-        constexpr std::ptrdiff_t f_u0002 = 0x10;
-        constexpr std::ptrdiff_t f_u0008 = 0x18;
-        constexpr std::ptrdiff_t f_u0003 = 0x20;
+        constexpr std::ptrdiff_t f_u000f = 0x10;
+        constexpr std::ptrdiff_t f_u0002 = 0x18;
+        constexpr std::ptrdiff_t f_u0008 = 0x20;
+        constexpr std::ptrdiff_t f_u0003 = 0x28;
     }
     namespace t_u000eu0002 {
         constexpr std::ptrdiff_t f_u0006 = 0x10;
@@ -710,12 +710,12 @@ namespace osu_Game_Auth_dll {
         constexpr std::ptrdiff_t f_u0005_1 = 0x28;
     }
     namespace t_u000fu0016 {
-        constexpr std::ptrdiff_t f_u0006 = 0x28;
-        constexpr std::ptrdiff_t f_u0005 = 0x8;
-        constexpr std::ptrdiff_t f_u000f = 0x10;
+        constexpr std::ptrdiff_t f_u0006 = 0x8;
+        constexpr std::ptrdiff_t f_u0005 = 0x10;
+        constexpr std::ptrdiff_t f_u000f = 0x18;
         constexpr std::ptrdiff_t f_u0002 = 0x48;
-        constexpr std::ptrdiff_t f_u0008 = 0x18;
-        constexpr std::ptrdiff_t f_u0003 = 0x20;
+        constexpr std::ptrdiff_t f_u0008 = 0x20;
+        constexpr std::ptrdiff_t f_u0003 = 0x28;
         constexpr std::ptrdiff_t f_u000e = 0x30;
         constexpr std::ptrdiff_t f_u0006u0015 = 0x40;
         constexpr std::ptrdiff_t f_u0005u0015 = 0x38;
@@ -729,10 +729,10 @@ namespace osu_Game_Auth_dll {
         constexpr std::ptrdiff_t f_u0006 = 0x8;
     }
     namespace t_u000fu0018 {
-        constexpr std::ptrdiff_t f_u0006 = 0x10;
+        constexpr std::ptrdiff_t f_u0006 = 0x8;
         constexpr std::ptrdiff_t f_u0005 = 0x20;
         constexpr std::ptrdiff_t f_u000f = 0x21;
-        constexpr std::ptrdiff_t f_u0002 = 0x8;
+        constexpr std::ptrdiff_t f_u0002 = 0x10;
         constexpr std::ptrdiff_t f_u0008 = 0x18;
         constexpr std::ptrdiff_t f_u0003 = 0x1C;
     }
@@ -785,7 +785,7 @@ namespace osu_Game_Auth_dll {
         constexpr std::ptrdiff_t f_u0008 = 0xAC;
         constexpr std::ptrdiff_t f_u0008u0016 = 0x28;
         constexpr std::ptrdiff_t f_u000fu001a = 0xB4;
-        constexpr std::ptrdiff_t f_u0005u0015 = 0x90;
+        constexpr std::ptrdiff_t f_u0005u0015 = 0xA0;
         constexpr std::ptrdiff_t f_u0008u000f = 0x30;
         constexpr std::ptrdiff_t f_u0002 = 0xB0;
         constexpr std::ptrdiff_t f_u0005u0005 = 0x38;
@@ -801,13 +801,13 @@ namespace osu_Game_Auth_dll {
         constexpr std::ptrdiff_t f_u000fu000f = 0x78;
         constexpr std::ptrdiff_t f_u0005u001a = 0x80;
         constexpr std::ptrdiff_t f_u0002u000f = 0x88;
-        constexpr std::ptrdiff_t f_u0006u001a = 0x98;
-        constexpr std::ptrdiff_t f_u0008u0015 = 0xA0;
+        constexpr std::ptrdiff_t f_u0006u001a = 0x90;
+        constexpr std::ptrdiff_t f_u0008u0015 = 0x98;
         constexpr std::ptrdiff_t f_u0002u001a = 0xB8;
     }
     namespace t_m_u0002 {
-        constexpr std::ptrdiff_t f_u0006 = 0x10;
-        constexpr std::ptrdiff_t f_u0005 = 0x8;
+        constexpr std::ptrdiff_t f_u0006 = 0x8;
+        constexpr std::ptrdiff_t f_u0005 = 0x10;
     }
     namespace t_m_u0002u0015_1 {
         constexpr std::ptrdiff_t f_u0006 = 0x8;
@@ -1028,23 +1028,23 @@ namespace osu_Game_Auth_dll {
         constexpr std::ptrdiff_t f_unbindComplete = 0x141;
         constexpr std::ptrdiff_t f_loadState = 0x100;
         constexpr std::ptrdiff_t f__LoadThread_k__BackingField = 0x30;
-        constexpr std::ptrdiff_t f_LoadLock = 0xD0;
-        constexpr std::ptrdiff_t f__ChildID_k__BackingField = 0xD8;
+        constexpr std::ptrdiff_t f_LoadLock = 0x38;
+        constexpr std::ptrdiff_t f__ChildID_k__BackingField = 0xE0;
         constexpr std::ptrdiff_t f__IsAlive_k__BackingField = 0x142;
         constexpr std::ptrdiff_t f_depth = 0x104;
-        constexpr std::ptrdiff_t f_OnUpdate = 0x38;
-        constexpr std::ptrdiff_t f_OnLoadComplete = 0x40;
-        constexpr std::ptrdiff_t f_Invalidated = 0x48;
-        constexpr std::ptrdiff_t f_OnDispose = 0x50;
-        constexpr std::ptrdiff_t f_OnUnbindAllBindables = 0x58;
-        constexpr std::ptrdiff_t f_scheduler = 0x60;
+        constexpr std::ptrdiff_t f_OnUpdate = 0x40;
+        constexpr std::ptrdiff_t f_OnLoadComplete = 0x48;
+        constexpr std::ptrdiff_t f_Invalidated = 0x50;
+        constexpr std::ptrdiff_t f_OnDispose = 0x58;
+        constexpr std::ptrdiff_t f_OnUnbindAllBindables = 0x60;
+        constexpr std::ptrdiff_t f_scheduler = 0x68;
         constexpr std::ptrdiff_t f_x = 0x108;
         constexpr std::ptrdiff_t f_y = 0x10C;
         constexpr std::ptrdiff_t f_relativePositionAxes = 0x110;
         constexpr std::ptrdiff_t f_width = 0x114;
         constexpr std::ptrdiff_t f_height = 0x118;
         constexpr std::ptrdiff_t f_relativeSizeAxes = 0x11C;
-        constexpr std::ptrdiff_t f_drawSizeBacking = 0x68;
+        constexpr std::ptrdiff_t f_drawSizeBacking = 0x70;
         constexpr std::ptrdiff_t f_bypassAutoSizeAxes = 0x120;
         constexpr std::ptrdiff_t f_bypassAutoSizeAdditionalAxes = 0x124;
         constexpr std::ptrdiff_t f_fillAspectRatio = 0x128;
@@ -1054,23 +1054,23 @@ namespace osu_Game_Auth_dll {
         constexpr std::ptrdiff_t f_anchor = 0x138;
         constexpr std::ptrdiff_t f_alpha = 0x13C;
         constexpr std::ptrdiff_t f_alwaysPresent = 0x143;
-        constexpr std::ptrdiff_t f_customClock = 0x70;
-        constexpr std::ptrdiff_t f_clock = 0x78;
+        constexpr std::ptrdiff_t f_customClock = 0x78;
+        constexpr std::ptrdiff_t f_clock = 0x80;
         constexpr std::ptrdiff_t f_ProcessCustomClock = 0x144;
-        constexpr std::ptrdiff_t f_lifetimeStart = 0xE0;
-        constexpr std::ptrdiff_t f_lifetimeEnd = 0xE8;
-        constexpr std::ptrdiff_t f_LifetimeChanged = 0x80;
-        constexpr std::ptrdiff_t f_parent = 0x88;
-        constexpr std::ptrdiff_t f_proxy = 0x90;
+        constexpr std::ptrdiff_t f_lifetimeStart = 0xE8;
+        constexpr std::ptrdiff_t f_lifetimeEnd = 0xF0;
+        constexpr std::ptrdiff_t f_LifetimeChanged = 0x88;
+        constexpr std::ptrdiff_t f_parent = 0x90;
+        constexpr std::ptrdiff_t f_proxy = 0x98;
         constexpr std::ptrdiff_t f__IsMaskedAway_k__BackingField = 0x145;
-        constexpr std::ptrdiff_t f_maskingBacking = 0x98;
-        constexpr std::ptrdiff_t f_screenSpaceDrawQuadBacking = 0xA0;
-        constexpr std::ptrdiff_t f_drawInfoBacking = 0xA8;
-        constexpr std::ptrdiff_t f_drawColourInfoBacking = 0xB0;
-        constexpr std::ptrdiff_t f_requiredParentSizeToFitBacking = 0xB8;
-        constexpr std::ptrdiff_t f_layoutList = 0xC0;
-        constexpr std::ptrdiff_t f__InvalidationID_k__BackingField = 0xF0;
-        constexpr std::ptrdiff_t f_drawNodes = 0xC8;
+        constexpr std::ptrdiff_t f_maskingBacking = 0xA0;
+        constexpr std::ptrdiff_t f_screenSpaceDrawQuadBacking = 0xA8;
+        constexpr std::ptrdiff_t f_drawInfoBacking = 0xB0;
+        constexpr std::ptrdiff_t f_drawColourInfoBacking = 0xB8;
+        constexpr std::ptrdiff_t f_requiredParentSizeToFitBacking = 0xC0;
+        constexpr std::ptrdiff_t f_layoutList = 0xC8;
+        constexpr std::ptrdiff_t f__InvalidationID_k__BackingField = 0xF8;
+        constexpr std::ptrdiff_t f_drawNodes = 0xD0;
         constexpr std::ptrdiff_t f__RequestsNonPositionalInput_k__BackingField = 0x146;
         constexpr std::ptrdiff_t f__RequestsPositionalInput_k__BackingField = 0x147;
         constexpr std::ptrdiff_t f_RequestsNonPositionalInputSubTree = 0x148;
@@ -1078,7 +1078,7 @@ namespace osu_Game_Auth_dll {
         constexpr std::ptrdiff_t f__HasFocus_k__BackingField = 0x14A;
         constexpr std::ptrdiff_t f__IsHovered_k__BackingField = 0x14B;
         constexpr std::ptrdiff_t f__IsDragged_k__BackingField = 0x14C;
-        constexpr std::ptrdiff_t f_Name = 0xF8;
+        constexpr std::ptrdiff_t f_Name = 0xD8;
         constexpr std::ptrdiff_t f_lastMaskingBounds = 0x150;
         constexpr std::ptrdiff_t f_margin = 0x164;
         constexpr std::ptrdiff_t f_scale = 0x174;

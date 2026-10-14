@@ -492,6 +492,7 @@ impl World {
                 }
             }
             BaseType::Vector(_, inner) => self.field_kind(ai, inner, depth + 1),
+            BaseType::Object | BaseType::String | BaseType::Array(..) => (true, false),
             _ => (false, false),
         }
     }

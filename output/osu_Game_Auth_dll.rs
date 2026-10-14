@@ -106,11 +106,11 @@ pub mod osu_Game_Auth_dll {
     }
     pub mod t_u0003u0019 {
         pub const f_u0006: usize = 0x20;
-        pub const f_u0005: usize = 0x18;
+        pub const f_u0005: usize = 0x8;
         pub const f_u000f: usize = 0x28;
         pub const f_u0002: usize = 0x24;
-        pub const f_u0008: usize = 0x8;
-        pub const f_u0003: usize = 0x10;
+        pub const f_u0008: usize = 0x10;
+        pub const f_u0003: usize = 0x18;
     }
     pub mod t_u0003u001a {
         pub const f_u0006: usize = 0x18;
@@ -124,8 +124,8 @@ pub mod osu_Game_Auth_dll {
         pub const f_u0005u0015: usize = 0x1C;
     }
     pub mod t_u0003u001au0018_u0006 {
-        pub const f_u0006: usize = 0x10;
-        pub const f_u0005: usize = 0x8;
+        pub const f_u0006: usize = 0x8;
+        pub const f_u0005: usize = 0x10;
     }
     pub mod t_u0003u001b {
         pub const f_u0006: usize = 0x8;
@@ -144,8 +144,8 @@ pub mod osu_Game_Auth_dll {
         pub const f__invocationCount: usize = 0x30;
     }
     pub mod t_u0005u0002 {
-        pub const f_u0006: usize = 0x10;
-        pub const f_u0005: usize = 0x8;
+        pub const f_u0006: usize = 0x8;
+        pub const f_u0005: usize = 0x10;
     }
     pub mod t_u0005u0003 {
         pub const f_u0006: usize = 0x8;
@@ -235,9 +235,9 @@ pub mod osu_Game_Auth_dll {
     pub mod t_u0006u000fu0018 {
         pub const f_u0006: usize = 0x10;
         pub const f_u0005: usize = 0x8;
-        pub const f_u0006_1: usize = 0x28;
-        pub const f_u0005_1: usize = 0x18;
-        pub const f_u000f: usize = 0x20;
+        pub const f_u0006_1: usize = 0x18;
+        pub const f_u0005_1: usize = 0x20;
+        pub const f_u000f: usize = 0x28;
     }
     pub mod t_u0006u0015 {
         pub const f_u0006: usize = 0x10;
@@ -271,17 +271,17 @@ pub mod osu_Game_Auth_dll {
     }
     pub mod t_u0006u001au0018 {
         pub const f_u0006: usize = 0x8;
-        pub const f_u0005: usize = 0x48;
-        pub const f_u000f: usize = 0x10;
-        pub const f_u0002: usize = 0x18;
-        pub const f_u0008: usize = 0x20;
-        pub const f_u0003: usize = 0x28;
+        pub const f_u0005: usize = 0x10;
+        pub const f_u000f: usize = 0x18;
+        pub const f_u0002: usize = 0x20;
+        pub const f_u0008: usize = 0x28;
+        pub const f_u0003: usize = 0x30;
         pub const f_u000e: usize = 0x58;
         pub const f_u0006u0015: usize = 0x59;
         pub const f_u0005u0015: usize = 0x50;
-        pub const f_u000fu0015: usize = 0x30;
-        pub const f_u0002u0015: usize = 0x38;
-        pub const f_u0008u0015: usize = 0x40;
+        pub const f_u000fu0015: usize = 0x38;
+        pub const f_u0002u0015: usize = 0x40;
+        pub const f_u0008u0015: usize = 0x48;
     }
     pub mod t_u0006u001au0018_u0002 {
         pub const f__target: usize = 0x8;
@@ -292,8 +292,8 @@ pub mod osu_Game_Auth_dll {
         pub const f__invocationCount: usize = 0x30;
     }
     pub mod t_u0006u001au0018_u0006 {
-        pub const f_u0006: usize = 0x10;
-        pub const f_u0005: usize = 0x8;
+        pub const f_u0006: usize = 0x8;
+        pub const f_u0005: usize = 0x10;
     }
     pub mod t_u0006u001au0018_u0008 {
         pub const f__target: usize = 0x8;
@@ -371,10 +371,10 @@ pub mod osu_Game_Auth_dll {
     pub mod t_u0008u0019 {
         pub const f_u0006: usize = 0x30;
         pub const f_u0005: usize = 0x8;
-        pub const f_u000f: usize = 0x28;
-        pub const f_u0002: usize = 0x10;
-        pub const f_u0008: usize = 0x18;
-        pub const f_u0003: usize = 0x20;
+        pub const f_u000f: usize = 0x10;
+        pub const f_u0002: usize = 0x18;
+        pub const f_u0008: usize = 0x20;
+        pub const f_u0003: usize = 0x28;
     }
     pub mod t_u000eu0002 {
         pub const f_u0006: usize = 0x10;
@@ -707,12 +707,12 @@ pub mod osu_Game_Auth_dll {
         pub const f_u0005_1: usize = 0x28;
     }
     pub mod t_u000fu0016 {
-        pub const f_u0006: usize = 0x28;
-        pub const f_u0005: usize = 0x8;
-        pub const f_u000f: usize = 0x10;
+        pub const f_u0006: usize = 0x8;
+        pub const f_u0005: usize = 0x10;
+        pub const f_u000f: usize = 0x18;
         pub const f_u0002: usize = 0x48;
-        pub const f_u0008: usize = 0x18;
-        pub const f_u0003: usize = 0x20;
+        pub const f_u0008: usize = 0x20;
+        pub const f_u0003: usize = 0x28;
         pub const f_u000e: usize = 0x30;
         pub const f_u0006u0015: usize = 0x40;
         pub const f_u0005u0015: usize = 0x38;
@@ -726,10 +726,10 @@ pub mod osu_Game_Auth_dll {
         pub const f_u0006: usize = 0x8;
     }
     pub mod t_u000fu0018 {
-        pub const f_u0006: usize = 0x10;
+        pub const f_u0006: usize = 0x8;
         pub const f_u0005: usize = 0x20;
         pub const f_u000f: usize = 0x21;
-        pub const f_u0002: usize = 0x8;
+        pub const f_u0002: usize = 0x10;
         pub const f_u0008: usize = 0x18;
         pub const f_u0003: usize = 0x1C;
     }
@@ -782,7 +782,7 @@ pub mod osu_Game_Auth_dll {
         pub const f_u0008: usize = 0xAC;
         pub const f_u0008u0016: usize = 0x28;
         pub const f_u000fu001a: usize = 0xB4;
-        pub const f_u0005u0015: usize = 0x90;
+        pub const f_u0005u0015: usize = 0xA0;
         pub const f_u0008u000f: usize = 0x30;
         pub const f_u0002: usize = 0xB0;
         pub const f_u0005u0005: usize = 0x38;
@@ -798,13 +798,13 @@ pub mod osu_Game_Auth_dll {
         pub const f_u000fu000f: usize = 0x78;
         pub const f_u0005u001a: usize = 0x80;
         pub const f_u0002u000f: usize = 0x88;
-        pub const f_u0006u001a: usize = 0x98;
-        pub const f_u0008u0015: usize = 0xA0;
+        pub const f_u0006u001a: usize = 0x90;
+        pub const f_u0008u0015: usize = 0x98;
         pub const f_u0002u001a: usize = 0xB8;
     }
     pub mod t_m_u0002 {
-        pub const f_u0006: usize = 0x10;
-        pub const f_u0005: usize = 0x8;
+        pub const f_u0006: usize = 0x8;
+        pub const f_u0005: usize = 0x10;
     }
     pub mod t_m_u0002u0015_1 {
         pub const f_u0006: usize = 0x8;
@@ -1025,23 +1025,23 @@ pub mod osu_Game_Auth_dll {
         pub const f_unbindComplete: usize = 0x141;
         pub const f_loadState: usize = 0x100;
         pub const f__LoadThread_k__BackingField: usize = 0x30;
-        pub const f_LoadLock: usize = 0xD0;
-        pub const f__ChildID_k__BackingField: usize = 0xD8;
+        pub const f_LoadLock: usize = 0x38;
+        pub const f__ChildID_k__BackingField: usize = 0xE0;
         pub const f__IsAlive_k__BackingField: usize = 0x142;
         pub const f_depth: usize = 0x104;
-        pub const f_OnUpdate: usize = 0x38;
-        pub const f_OnLoadComplete: usize = 0x40;
-        pub const f_Invalidated: usize = 0x48;
-        pub const f_OnDispose: usize = 0x50;
-        pub const f_OnUnbindAllBindables: usize = 0x58;
-        pub const f_scheduler: usize = 0x60;
+        pub const f_OnUpdate: usize = 0x40;
+        pub const f_OnLoadComplete: usize = 0x48;
+        pub const f_Invalidated: usize = 0x50;
+        pub const f_OnDispose: usize = 0x58;
+        pub const f_OnUnbindAllBindables: usize = 0x60;
+        pub const f_scheduler: usize = 0x68;
         pub const f_x: usize = 0x108;
         pub const f_y: usize = 0x10C;
         pub const f_relativePositionAxes: usize = 0x110;
         pub const f_width: usize = 0x114;
         pub const f_height: usize = 0x118;
         pub const f_relativeSizeAxes: usize = 0x11C;
-        pub const f_drawSizeBacking: usize = 0x68;
+        pub const f_drawSizeBacking: usize = 0x70;
         pub const f_bypassAutoSizeAxes: usize = 0x120;
         pub const f_bypassAutoSizeAdditionalAxes: usize = 0x124;
         pub const f_fillAspectRatio: usize = 0x128;
@@ -1051,23 +1051,23 @@ pub mod osu_Game_Auth_dll {
         pub const f_anchor: usize = 0x138;
         pub const f_alpha: usize = 0x13C;
         pub const f_alwaysPresent: usize = 0x143;
-        pub const f_customClock: usize = 0x70;
-        pub const f_clock: usize = 0x78;
+        pub const f_customClock: usize = 0x78;
+        pub const f_clock: usize = 0x80;
         pub const f_ProcessCustomClock: usize = 0x144;
-        pub const f_lifetimeStart: usize = 0xE0;
-        pub const f_lifetimeEnd: usize = 0xE8;
-        pub const f_LifetimeChanged: usize = 0x80;
-        pub const f_parent: usize = 0x88;
-        pub const f_proxy: usize = 0x90;
+        pub const f_lifetimeStart: usize = 0xE8;
+        pub const f_lifetimeEnd: usize = 0xF0;
+        pub const f_LifetimeChanged: usize = 0x88;
+        pub const f_parent: usize = 0x90;
+        pub const f_proxy: usize = 0x98;
         pub const f__IsMaskedAway_k__BackingField: usize = 0x145;
-        pub const f_maskingBacking: usize = 0x98;
-        pub const f_screenSpaceDrawQuadBacking: usize = 0xA0;
-        pub const f_drawInfoBacking: usize = 0xA8;
-        pub const f_drawColourInfoBacking: usize = 0xB0;
-        pub const f_requiredParentSizeToFitBacking: usize = 0xB8;
-        pub const f_layoutList: usize = 0xC0;
-        pub const f__InvalidationID_k__BackingField: usize = 0xF0;
-        pub const f_drawNodes: usize = 0xC8;
+        pub const f_maskingBacking: usize = 0xA0;
+        pub const f_screenSpaceDrawQuadBacking: usize = 0xA8;
+        pub const f_drawInfoBacking: usize = 0xB0;
+        pub const f_drawColourInfoBacking: usize = 0xB8;
+        pub const f_requiredParentSizeToFitBacking: usize = 0xC0;
+        pub const f_layoutList: usize = 0xC8;
+        pub const f__InvalidationID_k__BackingField: usize = 0xF8;
+        pub const f_drawNodes: usize = 0xD0;
         pub const f__RequestsNonPositionalInput_k__BackingField: usize = 0x146;
         pub const f__RequestsPositionalInput_k__BackingField: usize = 0x147;
         pub const f_RequestsNonPositionalInputSubTree: usize = 0x148;
@@ -1075,7 +1075,7 @@ pub mod osu_Game_Auth_dll {
         pub const f__HasFocus_k__BackingField: usize = 0x14A;
         pub const f__IsHovered_k__BackingField: usize = 0x14B;
         pub const f__IsDragged_k__BackingField: usize = 0x14C;
-        pub const f_Name: usize = 0xF8;
+        pub const f_Name: usize = 0xD8;
         pub const f_lastMaskingBounds: usize = 0x150;
         pub const f_margin: usize = 0x164;
         pub const f_scale: usize = 0x174;

@@ -123,11 +123,11 @@ public static class osu_Game_Auth_dll
     public static class t_u0003u0019
     {
         public const nint f_u0006 = 0x20;
-        public const nint f_u0005 = 0x18;
+        public const nint f_u0005 = 0x8;
         public const nint f_u000f = 0x28;
         public const nint f_u0002 = 0x24;
-        public const nint f_u0008 = 0x8;
-        public const nint f_u0003 = 0x10;
+        public const nint f_u0008 = 0x10;
+        public const nint f_u0003 = 0x18;
     }
     public static class t_u0003u001a
     {
@@ -143,8 +143,8 @@ public static class osu_Game_Auth_dll
     }
     public static class t_u0003u001au0018_u0006
     {
-        public const nint f_u0006 = 0x10;
-        public const nint f_u0005 = 0x8;
+        public const nint f_u0006 = 0x8;
+        public const nint f_u0005 = 0x10;
     }
     public static class t_u0003u001b
     {
@@ -166,8 +166,8 @@ public static class osu_Game_Auth_dll
     }
     public static class t_u0005u0002
     {
-        public const nint f_u0006 = 0x10;
-        public const nint f_u0005 = 0x8;
+        public const nint f_u0006 = 0x8;
+        public const nint f_u0005 = 0x10;
     }
     public static class t_u0005u0003
     {
@@ -274,9 +274,9 @@ public static class osu_Game_Auth_dll
     {
         public const nint f_u0006 = 0x10;
         public const nint f_u0005 = 0x8;
-        public const nint f_u0006_1 = 0x28;
-        public const nint f_u0005_1 = 0x18;
-        public const nint f_u000f = 0x20;
+        public const nint f_u0006_1 = 0x18;
+        public const nint f_u0005_1 = 0x20;
+        public const nint f_u000f = 0x28;
     }
     public static class t_u0006u0015
     {
@@ -317,17 +317,17 @@ public static class osu_Game_Auth_dll
     public static class t_u0006u001au0018
     {
         public const nint f_u0006 = 0x8;
-        public const nint f_u0005 = 0x48;
-        public const nint f_u000f = 0x10;
-        public const nint f_u0002 = 0x18;
-        public const nint f_u0008 = 0x20;
-        public const nint f_u0003 = 0x28;
+        public const nint f_u0005 = 0x10;
+        public const nint f_u000f = 0x18;
+        public const nint f_u0002 = 0x20;
+        public const nint f_u0008 = 0x28;
+        public const nint f_u0003 = 0x30;
         public const nint f_u000e = 0x58;
         public const nint f_u0006u0015 = 0x59;
         public const nint f_u0005u0015 = 0x50;
-        public const nint f_u000fu0015 = 0x30;
-        public const nint f_u0002u0015 = 0x38;
-        public const nint f_u0008u0015 = 0x40;
+        public const nint f_u000fu0015 = 0x38;
+        public const nint f_u0002u0015 = 0x40;
+        public const nint f_u0008u0015 = 0x48;
     }
     public static class t_u0006u001au0018_u0002
     {
@@ -340,8 +340,8 @@ public static class osu_Game_Auth_dll
     }
     public static class t_u0006u001au0018_u0006
     {
-        public const nint f_u0006 = 0x10;
-        public const nint f_u0005 = 0x8;
+        public const nint f_u0006 = 0x8;
+        public const nint f_u0005 = 0x10;
     }
     public static class t_u0006u001au0018_u0008
     {
@@ -432,10 +432,10 @@ public static class osu_Game_Auth_dll
     {
         public const nint f_u0006 = 0x30;
         public const nint f_u0005 = 0x8;
-        public const nint f_u000f = 0x28;
-        public const nint f_u0002 = 0x10;
-        public const nint f_u0008 = 0x18;
-        public const nint f_u0003 = 0x20;
+        public const nint f_u000f = 0x10;
+        public const nint f_u0002 = 0x18;
+        public const nint f_u0008 = 0x20;
+        public const nint f_u0003 = 0x28;
     }
     public static class t_u000eu0002
     {
@@ -790,12 +790,12 @@ public static class osu_Game_Auth_dll
     }
     public static class t_u000fu0016
     {
-        public const nint f_u0006 = 0x28;
-        public const nint f_u0005 = 0x8;
-        public const nint f_u000f = 0x10;
+        public const nint f_u0006 = 0x8;
+        public const nint f_u0005 = 0x10;
+        public const nint f_u000f = 0x18;
         public const nint f_u0002 = 0x48;
-        public const nint f_u0008 = 0x18;
-        public const nint f_u0003 = 0x20;
+        public const nint f_u0008 = 0x20;
+        public const nint f_u0003 = 0x28;
         public const nint f_u000e = 0x30;
         public const nint f_u0006u0015 = 0x40;
         public const nint f_u0005u0015 = 0x38;
@@ -812,10 +812,10 @@ public static class osu_Game_Auth_dll
     }
     public static class t_u000fu0018
     {
-        public const nint f_u0006 = 0x10;
+        public const nint f_u0006 = 0x8;
         public const nint f_u0005 = 0x20;
         public const nint f_u000f = 0x21;
-        public const nint f_u0002 = 0x8;
+        public const nint f_u0002 = 0x10;
         public const nint f_u0008 = 0x18;
         public const nint f_u0003 = 0x1C;
     }
@@ -874,7 +874,7 @@ public static class osu_Game_Auth_dll
         public const nint f_u0008 = 0xAC;
         public const nint f_u0008u0016 = 0x28;
         public const nint f_u000fu001a = 0xB4;
-        public const nint f_u0005u0015 = 0x90;
+        public const nint f_u0005u0015 = 0xA0;
         public const nint f_u0008u000f = 0x30;
         public const nint f_u0002 = 0xB0;
         public const nint f_u0005u0005 = 0x38;
@@ -890,14 +890,14 @@ public static class osu_Game_Auth_dll
         public const nint f_u000fu000f = 0x78;
         public const nint f_u0005u001a = 0x80;
         public const nint f_u0002u000f = 0x88;
-        public const nint f_u0006u001a = 0x98;
-        public const nint f_u0008u0015 = 0xA0;
+        public const nint f_u0006u001a = 0x90;
+        public const nint f_u0008u0015 = 0x98;
         public const nint f_u0002u001a = 0xB8;
     }
     public static class t_m_u0002
     {
-        public const nint f_u0006 = 0x10;
-        public const nint f_u0005 = 0x8;
+        public const nint f_u0006 = 0x8;
+        public const nint f_u0005 = 0x10;
     }
     public static class t_m_u0002u0015_1
     {
@@ -1148,23 +1148,23 @@ public static class osu_Game_Auth_dll
         public const nint f_unbindComplete = 0x141;
         public const nint f_loadState = 0x100;
         public const nint f__LoadThread_k__BackingField = 0x30;
-        public const nint f_LoadLock = 0xD0;
-        public const nint f__ChildID_k__BackingField = 0xD8;
+        public const nint f_LoadLock = 0x38;
+        public const nint f__ChildID_k__BackingField = 0xE0;
         public const nint f__IsAlive_k__BackingField = 0x142;
         public const nint f_depth = 0x104;
-        public const nint f_OnUpdate = 0x38;
-        public const nint f_OnLoadComplete = 0x40;
-        public const nint f_Invalidated = 0x48;
-        public const nint f_OnDispose = 0x50;
-        public const nint f_OnUnbindAllBindables = 0x58;
-        public const nint f_scheduler = 0x60;
+        public const nint f_OnUpdate = 0x40;
+        public const nint f_OnLoadComplete = 0x48;
+        public const nint f_Invalidated = 0x50;
+        public const nint f_OnDispose = 0x58;
+        public const nint f_OnUnbindAllBindables = 0x60;
+        public const nint f_scheduler = 0x68;
         public const nint f_x = 0x108;
         public const nint f_y = 0x10C;
         public const nint f_relativePositionAxes = 0x110;
         public const nint f_width = 0x114;
         public const nint f_height = 0x118;
         public const nint f_relativeSizeAxes = 0x11C;
-        public const nint f_drawSizeBacking = 0x68;
+        public const nint f_drawSizeBacking = 0x70;
         public const nint f_bypassAutoSizeAxes = 0x120;
         public const nint f_bypassAutoSizeAdditionalAxes = 0x124;
         public const nint f_fillAspectRatio = 0x128;
@@ -1174,23 +1174,23 @@ public static class osu_Game_Auth_dll
         public const nint f_anchor = 0x138;
         public const nint f_alpha = 0x13C;
         public const nint f_alwaysPresent = 0x143;
-        public const nint f_customClock = 0x70;
-        public const nint f_clock = 0x78;
+        public const nint f_customClock = 0x78;
+        public const nint f_clock = 0x80;
         public const nint f_ProcessCustomClock = 0x144;
-        public const nint f_lifetimeStart = 0xE0;
-        public const nint f_lifetimeEnd = 0xE8;
-        public const nint f_LifetimeChanged = 0x80;
-        public const nint f_parent = 0x88;
-        public const nint f_proxy = 0x90;
+        public const nint f_lifetimeStart = 0xE8;
+        public const nint f_lifetimeEnd = 0xF0;
+        public const nint f_LifetimeChanged = 0x88;
+        public const nint f_parent = 0x90;
+        public const nint f_proxy = 0x98;
         public const nint f__IsMaskedAway_k__BackingField = 0x145;
-        public const nint f_maskingBacking = 0x98;
-        public const nint f_screenSpaceDrawQuadBacking = 0xA0;
-        public const nint f_drawInfoBacking = 0xA8;
-        public const nint f_drawColourInfoBacking = 0xB0;
-        public const nint f_requiredParentSizeToFitBacking = 0xB8;
-        public const nint f_layoutList = 0xC0;
-        public const nint f__InvalidationID_k__BackingField = 0xF0;
-        public const nint f_drawNodes = 0xC8;
+        public const nint f_maskingBacking = 0xA0;
+        public const nint f_screenSpaceDrawQuadBacking = 0xA8;
+        public const nint f_drawInfoBacking = 0xB0;
+        public const nint f_drawColourInfoBacking = 0xB8;
+        public const nint f_requiredParentSizeToFitBacking = 0xC0;
+        public const nint f_layoutList = 0xC8;
+        public const nint f__InvalidationID_k__BackingField = 0xF8;
+        public const nint f_drawNodes = 0xD0;
         public const nint f__RequestsNonPositionalInput_k__BackingField = 0x146;
         public const nint f__RequestsPositionalInput_k__BackingField = 0x147;
         public const nint f_RequestsNonPositionalInputSubTree = 0x148;
@@ -1198,7 +1198,7 @@ public static class osu_Game_Auth_dll
         public const nint f__HasFocus_k__BackingField = 0x14A;
         public const nint f__IsHovered_k__BackingField = 0x14B;
         public const nint f__IsDragged_k__BackingField = 0x14C;
-        public const nint f_Name = 0xF8;
+        public const nint f_Name = 0xD8;
         public const nint f_lastMaskingBounds = 0x150;
         public const nint f_margin = 0x164;
         public const nint f_scale = 0x174;
