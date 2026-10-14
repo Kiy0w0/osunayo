@@ -1,2 +1,12 @@
 /target
 *.log
+
+# local cross-check scratch: machine-specific paths and derived inputs
+/verify2.txt
+/lazer-md.json
+/lame-offsets.json
+/deltas.js
+/diag.js
+/generic.js
+/match.js
+/order.js
