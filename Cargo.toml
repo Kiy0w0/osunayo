@@ -1,0 +1,9 @@
+[package]
+name = "osunayo"
+version = "0.1.0"
+edition = "2024"
+description = "Static field-offset dumper for osu!lazer"
+license = "MIT"
+
+[dependencies]
+dotnetdll = "0.3.0"

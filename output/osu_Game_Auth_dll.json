@@ -1,0 +1,1672 @@
+{
+  "osu.Game.Auth.dll": {
+    "classes": {
+      "\u0002": {
+        "fields": {
+          "\u0006": 16,
+          "\u0005": 8
+        },
+        "metadata": [],
+        "parent": "System.Object"
+      },
+      "\u0002\u0002": {
+        "fields": {
+          "\u0006": 8,
+          "\u0005": 48,
+          "\u000f": 16,
+          "\u0002": 49,
+          "\u0008": 44,
+          "\u0003": 46,
+          "\u000e": 40,
+          "\u0006\u0015": 50,
+          "\u0005\u0015": 51,
+          "\u000f\u0015": 52,
+          "\u0002\u0015": 24,
+          "\u0008\u0015": 32
+        },
+        "metadata": [],
+        "parent": "System.Object"
+      },
+      "\u0002\u0003": {
+        "fields": {
+          "\u0006": 16,
+          "\u0005": 8,
+          "\u0006": 24
+        },
+        "metadata": [],
+        "parent": "\u0006\u0015"
+      },
+      "\u0002\u000f\u0018": {
+        "fields": {
+          "\u0006": 8
+        },
+        "metadata": [],
+        "parent": "System.Attribute"
+      },
+      "\u0002\u0010": {
+        "fields": {
+          "\u0006": 16,
+          "\u0005": 24,
+          "\u000f": 8,
+          "\u0002": 20
+        },
+        "metadata": [],
+        "parent": "System.Object"
+      },
+      "\u0002\u0015": {
+        "fields": {
+          "\u0006": 16,
+          "\u0005": 8,
+          "\u0006": 24
+        },
+        "metadata": [],
+        "parent": "\u0002"
+      },
+      "\u0002\u0015\u0018": {
+        "fields": {
+          "\u0006": 8,
+          "\u0005": 16,
+          "\u000f": 24
+        },
+        "metadata": [],
+        "parent": "\u0003\u0015"
+      },
+      "\u0002\u0017": {
+        "fields": {
+          "\u0006": 8,
+          "\u0005": 16,
+          "\u000f": 20,
+          "\u0002": 24
+        },
+        "metadata": [],
+        "parent": "System.Object"
+      },
+      "\u0002\u001a": {
+        "fields": {
+          "\u0006": 16,
+          "\u0005": 8,
+          "\u0006": 24
+        },
+        "metadata": [],
+        "parent": "\u0002"
+      },
+      "\u0003\u0002": {
+        "fields": {
+          "_asyncActiveSemaphore": 8,
+          "\u0006": 64,
+          "\u0005": 16,
+          "\u000f": 24,
+          "\u0002": 32,
+          "\u0008": 40,
+          "\u0003": 48,
+          "\u000e": 65,
+          "\u0006\u0015": 66,
+          "\u0005\u0015": 56,
+          "\u000f\u0015": 60
+        },
+        "metadata": [],
+        "parent": "System.IO.Stream"
+      },
+      "\u0003\u000f": {
+        "fields": {
+          "\u0006": 16,
+          "\u0005": 8,
+          "\u0006": 24
+        },
+        "metadata": [],
+        "parent": "\u0002"
+      },
+      "\u0003\u0010": {
+        "fields": {
+          "\u0005": 8,
+          "\u000f": 16,
+          "\u0002": 24,
+          "\u0008": 28,
+          "\u0003": 32,
+          "\u000e": 36,
+          "\u0006\u0015": 37,
+          "\u0005\u0015": 38
+        },
+        "metadata": [],
+        "parent": "System.Object"
+      },
+      "\u0003\u0015\u0018": {
+        "fields": {
+          "\u0006": 48,
+          "\u0005": 16,
+          "\u000f": 8,
+          "\u0002": 20,
+          "\u0008": 24,
+          "\u0003": 28,
+          "\u000e": 32,
+          "\u0006\u0015": 36,
+          "\u0005\u0015": 40,
+          "\u000f\u0015": 44
+        },
+        "metadata": [],
+        "parent": "System.Object"
+      },
+      "\u0003\u0016": {
+        "fields": {
+          "\u0006": 8
+        },
+        "metadata": [],
+        "parent": "System.Object"
+      },
+      "\u0003\u0017": {
+        "fields": {
+          "\u0006": 16,
+          "\u0005": 8,
+          "\u0006": 24,
+          "\u0006": 32,
+          "\u0005": 40
+        },
+        "metadata": [],
+        "parent": "\u0005\u0015"
+      },
+      "\u0003\u0019": {
+        "fields": {
+          "\u0006": 32,
+          "\u0005": 24,
+          "\u000f": 40,
+          "\u0002": 36,
+          "\u0008": 8,
+          "\u0003": 16
+        },
+        "metadata": [],
+        "parent": "System.Object"
+      },
+      "\u0003\u001a": {
+        "fields": {
+          "\u0006": 24,
+          "\u0005": 8,
+          "\u000f": 12,
+          "\u0002": 16,
+          "\u0008": 20,
+          "\u0003": 25,
+          "\u000e": 26,
+          "\u0006\u0015": 27,
+          "\u0005\u0015": 28
+        },
+        "metadata": [],
+        "parent": "\u0008\u001a"
+      },
+      "\u0003\u001a\u0018+\u0006": {
+        "fields": {
+          "\u0006": 16,
+          "\u0005": 8
+        },
+        "metadata": [],
+        "parent": "System.Object"
+      },
+      "\u0003\u001b": {
+        "fields": {
+          "\u0006": 8,
+          "\u0005": 12,
+          "\u000f": 16,
+          "\u0002": 20,
+          "\u0008": 24,
+          "\u0003": 28
+        },
+        "metadata": [],
+        "parent": "System.Object"
+      },
+      "\u0003+\u0006": {
+        "fields": {
+          "_target": 8,
+          "_methodBase": 16,
+          "_methodPtr": 24,
+          "_methodPtrAux": 32,
+          "_invocationList": 40,
+          "_invocationCount": 48
+        },
+        "metadata": [],
+        "parent": "System.MulticastDelegate"
+      },
+      "\u0005\u0002": {
+        "fields": {
+          "\u0006": 16,
+          "\u0005": 8
+        },
+        "metadata": [],
+        "parent": "System.Object"
+      },
+      "\u0005\u0003": {
+        "fields": {
+          "\u0006": 8,
+          "\u0005": 12,
+          "\u000f": 16,
+          "\u0002": 20,
+          "\u0008": 24
+        },
+        "metadata": [],
+        "parent": "System.Object"
+      },
+      "\u0005\u000f": {
+        "fields": {
+          "\u0006": 8,
+          "\u0005": 32,
+          "\u000f": 36,
+          "\u0002": 16,
+          "\u0008": 24,
+          "\u0003": 40,
+          "\u000e": 41
+        },
+        "metadata": [],
+        "parent": "System.Object"
+      },
+      "\u0005\u0010": {
+        "fields": {
+          "\u0006": 16,
+          "\u0005": 8,
+          "\u0006": 24
+        },
+        "metadata": [],
+        "parent": "\u0002"
+      },
+      "\u0005\u0015": {
+        "fields": {
+          "\u0006": 16,
+          "\u0005": 8,
+          "\u0006": 24
+        },
+        "metadata": [],
+        "parent": "\u0006\u0015"
+      },
+      "\u0005\u0015\u0018": {
+        "fields": {
+          "\u0006": 16,
+          "\u0005": 8,
+          "\u0006": 24
+        },
+        "metadata": [],
+        "parent": "\u0002"
+      },
+      "\u0005\u0016": {
+        "fields": {
+          "\u0006": 16,
+          "\u0005": 8,
+          "\u0006": 24
+        },
+        "metadata": [],
+        "parent": "\u0002"
+      },
+      "\u0005\u0018": {
+        "fields": {
+          "\u0006": 20,
+          "\u0005": 21,
+          "\u000f": 16,
+          "\u0002": 8,
+          "\u0008": 22
+        },
+        "metadata": [],
+        "parent": ""
+      },
+      "\u0005\u0019": {
+        "fields": {
+          "\u0006": 8,
+          "\u0005": 16
+        },
+        "metadata": [],
+        "parent": ""
+      },
+      "\u0005\u0019+\u0005": {
+        "fields": {
+          "\u0006": 28,
+          "\u0005": 29,
+          "\u000f": 8,
+          "\u0002": 16,
+          "\u0008": 30,
+          "\u0003": 24
+        },
+        "metadata": [],
+        "parent": "System.Object"
+      },
+      "\u0005\u001a": {
+        "fields": {
+          "\u0006": 16,
+          "\u0005": 8,
+          "\u0006": 24
+        },
+        "metadata": [],
+        "parent": "\u0002"
+      },
+      "\u0005\u001b": {
+        "fields": {
+          "\u0006": 16,
+          "\u0005": 8,
+          "\u0006": 24
+        },
+        "metadata": [],
+        "parent": "\u0002"
+      },
+      "\u0006": {
+        "fields": {
+          "\u0006": 8
+        },
+        "metadata": [],
+        "parent": "System.Object"
+      },
+      "\u0006\u0002": {
+        "fields": {
+          "\u0006": 16,
+          "\u0005": 8,
+          "\u0006": 24
+        },
+        "metadata": [],
+        "parent": "\u0002"
+      },
+      "\u0006\u0003": {
+        "fields": {
+          "\u0006": 16,
+          "\u0005": 8,
+          "\u0006": 24
+        },
+        "metadata": [],
+        "parent": "\u0002"
+      },
+      "\u0006\u0005\u0018+\u0005": {
+        "fields": {
+          "\u0006": 8,
+          "\u0005": 16
+        },
+        "metadata": [],
+        "parent": "System.Object"
+      },
+      "\u0006\u000f": {
+        "fields": {
+          "\u0006": 8
+        },
+        "metadata": [],
+        "parent": "\u0003\u0015"
+      },
+      "\u0006\u000f\u0018": {
+        "fields": {
+          "\u0006": 16,
+          "\u0005": 8,
+          "\u0006": 40,
+          "\u0005": 24,
+          "\u000f": 32
+        },
+        "metadata": [],
+        "parent": "\u0006\u0015"
+      },
+      "\u0006\u0015": {
+        "fields": {
+          "\u0006": 16,
+          "\u0005": 8
+        },
+        "metadata": [],
+        "parent": "\u0002"
+      },
+      "\u0006\u0015\u0018": {
+        "fields": {
+          "\u0006": 16,
+          "\u0005": 8,
+          "\u000f": 12,
+          "\u0002": 24
+        },
+        "metadata": [],
+        "parent": "System.Object"
+      },
+      "\u0006\u0016": {
+        "fields": {
+          "\u0006": 8
+        },
+        "metadata": [],
+        "parent": "\u000e\u000f"
+      },
+      "\u0006\u0018": {
+        "fields": {
+          "\u0006": 20,
+          "\u0005": 16,
+          "\u000f": 8
+        },
+        "metadata": [],
+        "parent": "System.Object"
+      },
+      "\u0006\u0019": {
+        "fields": {
+          "\u0008": 8,
+          "\u0003": 12,
+          "\u000e": 16,
+          "\u0006\u0015": 20
+        },
+        "metadata": [],
+        "parent": "System.Object"
+      },
+      "\u0006\u001a": {
+        "fields": {
+          "\u0006": 8,
+          "\u0005": 24,
+          "\u000f": 16,
+          "\u0002": 20
+        },
+        "metadata": [],
+        "parent": "System.Object"
+      },
+      "\u0006\u001a\u0018": {
+        "fields": {
+          "\u0006": 8,
+          "\u0005": 72,
+          "\u000f": 16,
+          "\u0002": 24,
+          "\u0008": 32,
+          "\u0003": 40,
+          "\u000e": 88,
+          "\u0006\u0015": 89,
+          "\u0005\u0015": 80,
+          "\u000f\u0015": 48,
+          "\u0002\u0015": 56,
+          "\u0008\u0015": 64
+        },
+        "metadata": [],
+        "parent": "System.Object"
+      },
+      "\u0006\u001a\u0018+\u0002": {
+        "fields": {
+          "_target": 8,
+          "_methodBase": 16,
+          "_methodPtr": 24,
+          "_methodPtrAux": 32,
+          "_invocationList": 40,
+          "_invocationCount": 48
+        },
+        "metadata": [],
+        "parent": "System.MulticastDelegate"
+      },
+      "\u0006\u001a\u0018+\u0006": {
+        "fields": {
+          "\u0006": 16,
+          "\u0005": 8
+        },
+        "metadata": [],
+        "parent": "System.Object"
+      },
+      "\u0006\u001a\u0018+\u0008": {
+        "fields": {
+          "_target": 8,
+          "_methodBase": 16,
+          "_methodPtr": 24,
+          "_methodPtrAux": 32,
+          "_invocationList": 40,
+          "_invocationCount": 48
+        },
+        "metadata": [],
+        "parent": "System.MulticastDelegate"
+      },
+      "\u0006\u001a\u0018+\u000f": {
+        "fields": {
+          "_target": 8,
+          "_methodBase": 16,
+          "_methodPtr": 24,
+          "_methodPtrAux": 32,
+          "_invocationList": 40,
+          "_invocationCount": 48
+        },
+        "metadata": [],
+        "parent": "System.MulticastDelegate"
+      },
+      "\u0008": {
+        "fields": {
+          "\u0006": 16,
+          "\u0005": 8,
+          "\u0006": 24
+        },
+        "metadata": [],
+        "parent": "\u0002"
+      },
+      "\u0008\u0002": {
+        "fields": {
+          "\u0006": 16,
+          "\u0005": 8,
+          "\u0006": 24
+        },
+        "metadata": [],
+        "parent": "\u0002"
+      },
+      "\u0008\u0003+\u0006": {
+        "fields": {
+          "\u0006": 8,
+          "\u0005": 9
+        },
+        "metadata": [],
+        "parent": "System.Object"
+      },
+      "\u0008\u0005": {
+        "fields": {
+          "\u0006": 16,
+          "\u0005": 8,
+          "\u0006": 24
+        },
+        "metadata": [],
+        "parent": "\u0002"
+      },
+      "\u0008\u0015\u0018": {
+        "fields": {
+          "\u0006": 8,
+          "\u0005": 12
+        },
+        "metadata": [],
+        "parent": "System.Object"
+      },
+      "\u0008\u0016\u0018+\u0005": {
+        "fields": {
+          "\u0006": 8,
+          "\u0005": 12,
+          "\u000f": 16,
+          "\u0002": 20
+        },
+        "metadata": [],
+        "parent": "System.Object"
+      },
+      "\u0008\u0016\u0018+\u0006": {
+        "fields": {
+          "\u0006": 16,
+          "\u0005": 20,
+          "\u000f": 24,
+          "\u0002": 28,
+          "\u0008": 32,
+          "\u0003": 36,
+          "\u000e": 40,
+          "\u0006\u0015": 8,
+          "\u0005\u0015": 44
+        },
+        "metadata": [],
+        "parent": "System.Object"
+      },
+      "\u0008\u0016\u0018+\u000f": {
+        "fields": {
+          "\u0006": 16,
+          "\u0005": 20,
+          "\u000f": 24,
+          "\u0002": 28,
+          "\u0008": 32,
+          "\u0003": 36,
+          "\u000e": 8
+        },
+        "metadata": [],
+        "parent": "System.Object"
+      },
+      "\u0008\u0017": {
+        "fields": {
+          "\u0006": 8
+        },
+        "metadata": [],
+        "parent": "System.Attribute"
+      },
+      "\u0008\u0018": {
+        "fields": {
+          "\u0006": 24,
+          "\u0005": 8,
+          "\u000f": 16
+        },
+        "metadata": [],
+        "parent": "System.Object"
+      },
+      "\u0008\u0019": {
+        "fields": {
+          "\u0006": 48,
+          "\u0005": 8,
+          "\u000f": 40,
+          "\u0002": 16,
+          "\u0008": 24,
+          "\u0003": 32
+        },
+        "metadata": [],
+        "parent": "\u0003\u0015"
+      },
+      "\u000e\u0002": {
+        "fields": {
+          "\u0006": 16,
+          "\u0005": 8,
+          "\u0006": 24
+        },
+        "metadata": [],
+        "parent": "\u0002"
+      },
+      "\u000e\u0003": {
+        "fields": {
+          "\u0006": 8,
+          "\u0005": 16,
+          "\u000f": 20
+        },
+        "metadata": [],
+        "parent": "System.Object"
+      },
+      "\u000e\u0005": {
+        "fields": {
+          "\u0006": 8
+        },
+        "metadata": [],
+        "parent": "System.Object"
+      },
+      "\u000e\u000f": {
+        "fields": {
+          "\u0006": 8
+        },
+        "metadata": [],
+        "parent": "System.Object"
+      },
+      "\u000e\u0010": {
+        "fields": {
+          "\u0006": 16,
+          "\u0005": 8
+        },
+        "metadata": [],
+        "parent": "\u0008\u001a"
+      },
+      "\u000e\u0015": {
+        "fields": {
+          "\u0006": 8,
+          "\u0005": 12
+        },
+        "metadata": [],
+        "parent": "\u0003\u0015"
+      },
+      "\u000e\u0015\u0018": {
+        "fields": {
+          "\u0006": 8
+        },
+        "metadata": [],
+        "parent": "System.Attribute"
+      },
+      "\u000e\u0016": {
+        "fields": {
+          "\u0006": 16,
+          "\u0005": 8,
+          "\u0006": 24
+        },
+        "metadata": [],
+        "parent": "\u0006\u0015"
+      },
+      "\u000e\u0017": {
+        "fields": {
+          "\u0003\u0010\u001a": 8,
+          "\u0008": 12,
+          "\u0005\u0016\u001a": 20,
+          "\u000e\u0003\u0018": 28,
+          "\u0002\u0015": 36,
+          "\u0005\u0010": 44,
+          "\u0006\u0017\u0018": 52,
+          "\u0008\u0015\u001a": 60,
+          "\u0008\u0016": 68,
+          "\u0002\u0019": 76,
+          "\u000e\u0010": 84,
+          "\u0006": 92,
+          "\u0002\u0010\u001a": 100,
+          "\u0002\u0002": 108,
+          "\u0006\u0010\u001a": 116,
+          "\u0002\u0010\u0018": 124,
+          "\u0008\u0005\u0018": 132,
+          "\u0005\u0002\u0018": 140,
+          "\u0003\u001b": 148,
+          "\u0008\u0015\u0018": 156,
+          "\u0005\u001a\u001a": 164,
+          "\u0002\u000f": 172,
+          "\u0002\u0018": 180,
+          "\u000e\u0002\u0018": 188,
+          "\u0005\u000f\u0018": 196,
+          "\u0006\u0018\u0018": 204,
+          "\u0006\u000f\u001a": 212,
+          "\u0002\u0010": 220,
+          "\u0006\u0002": 228,
+          "\u0005\u001b\u0018": 236,
+          "\u000e\u0018": 244,
+          "\u0005\u0005\u001a": 252,
+          "\u0002": 260,
+          "\u0003\u0005\u001a": 268,
+          "\u0008\u0018\u0018": 276,
+          "\u000e\u0019": 284,
+          "\u0005\u001a\u0018": 292,
+          "\u0008\u0019": 300,
+          "\u0008\u0019\u0018": 308,
+          "\u0003\u0017": 316,
+          "\u000f\u0017\u0018": 324,
+          "\u0002\u001a\u0018": 332,
+          "\u000f\u0002": 340,
+          "\u0002\u0015\u0018": 348,
+          "\u000f\u000f": 356,
+          "\u0006\u0002\u0018": 364,
+          "\u000f\u0003": 372,
+          "\u0003\u001a\u001a": 380,
+          "\u0006\u000f": 388,
+          "\u0005\u0015": 396,
+          "\u000f\u0002\u0018": 404,
+          "\u0005\u0015\u0018": 412,
+          "\u0003\u0015\u0018": 420,
+          "\u0003\u001a\u0018": 428,
+          "\u0003\u0019\u0018": 436,
+          "\u0005\u0005\u0018": 444,
+          "\u0002\u0016": 452,
+          "\u0002\u000f\u001a": 460,
+          "\u000e\u001a": 468,
+          "\u0002\u0016\u001a": 476,
+          "\u000f\u0018\u0018": 484,
+          "\u0003\u0016\u001a": 492,
+          "\u0002\u001a": 500,
+          "\u000e\u000f": 508,
+          "\u000e\u0019\u0018": 516,
+          "\u0008\u000f\u001a": 524,
+          "\u0006\u0016\u001a": 532,
+          "\u0008\u000f": 540,
+          "\u000e\u0015\u001a": 548,
+          "\u0006\u0005": 556,
+          "\u0003\u0018": 564,
+          "\u0006\u0005\u001a": 572,
+          "\u0006\u0019": 580,
+          "\u0003\u000f\u0018": 588,
+          "\u000f\u000f\u0018": 596,
+          "\u0008\u0018": 604,
+          "\u000e\u001b": 612,
+          "\u000f\u0015": 620,
+          "\u0003\u0002": 628,
+          "\u0008\u0005": 636,
+          "\u000e\u0005": 644,
+          "\u0002\u0005\u001a": 652,
+          "\u0003\u000f": 660,
+          "\u000f\u0016\u0018": 668,
+          "\u000f\u0010": 676,
+          "\u0002\u0017": 684,
+          "\u0008\u000f\u0018": 692,
+          "\u0008\u0003": 700,
+          "\u0006\u0017": 708,
+          "\u0003\u0003": 716,
+          "\u000e": 724,
+          "\u0005\u0018\u0018": 732,
+          "\u0008\u0016\u0018": 740,
+          "\u0005\u0016": 748,
+          "\u0005\u0015\u001a": 756,
+          "\u0002\u001b": 764,
+          "\u0005\u0017": 772,
+          "\u000f\u001b\u0018": 780,
+          "\u000e\u0003": 788,
+          "\u0005\u0010\u0018": 796,
+          "\u0008\u0010\u001a": 804,
+          "\u0002\u0003\u0018": 812,
+          "\u0006\u001a": 820,
+          "\u0003\u0017\u0018": 828,
+          "\u0006\u001b": 836,
+          "\u0002\u0003": 844,
+          "\u0003": 852,
+          "\u000e\u0002": 860,
+          "\u0003\u001a": 868,
+          "\u0008\u0017\u0018": 876,
+          "\u000f\u0016\u001a": 884,
+          "\u000f\u001a\u001a": 892,
+          "\u0005\u0005": 900,
+          "\u0003\u0002\u0018": 908,
+          "\u0006\u001a\u0018": 916,
+          "\u0002\u0002\u0018": 924,
+          "\u0006\u0015\u0018": 932,
+          "\u000f\u0019\u0018": 940,
+          "\u0008\u0002": 948,
+          "\u0005\u0003": 956,
+          "\u000f": 964,
+          "\u000e\u000f\u001a": 972,
+          "\u0002\u0005\u0018": 980,
+          "\u000e\u0017\u0018": 988,
+          "\u0008\u0002\u0018": 996,
+          "\u0002\u0005": 1004,
+          "\u0006\u0015": 1012,
+          "\u0008\u0017": 1020,
+          "\u0005\u0010\u001a": 1028,
+          "\u0008\u001a\u001a": 1036,
+          "\u0006\u0003": 1044,
+          "\u000e\u0016": 1052,
+          "\u000e\u0005\u001a": 1060,
+          "\u0006\u001b\u0018": 1068,
+          "\u0006\u0019\u0018": 1076,
+          "\u0002\u0016\u0018": 1084,
+          "\u000f\u0015\u0018": 1092,
+          "\u0008\u0016\u001a": 1100,
+          "\u0002\u0015\u001a": 1108,
+          "\u000e\u001a\u0018": 1116,
+          "\u0005\u0019": 1124,
+          "\u0002\u000f\u0018": 1132,
+          "\u0003\u0015\u001a": 1140,
+          "\u0005": 1148,
+          "\u000e\u0016\u0018": 1156,
+          "\u0006\u0016": 1164,
+          "\u000f\u000f\u001a": 1172,
+          "\u0003\u0005\u0018": 1180,
+          "\u0002\u0018\u0018": 1188,
+          "\u0003\u001b\u0018": 1196,
+          "\u0005\u0017\u0018": 1204,
+          "\u000e\u000f\u0018": 1212,
+          "\u0005\u001b": 1220,
+          "\u0008\u001b": 1228,
+          "\u0002\u0019\u0018": 1236,
+          "\u0008\u0010\u0018": 1244,
+          "\u0003\u0019": 1252,
+          "\u0006\u0010\u0018": 1260,
+          "\u0002\u0017\u0018": 1268,
+          "\u000e\u0016\u001a": 1276,
+          "\u000e\u0017": 1284,
+          "\u000f\u0005\u0018": 1292,
+          "\u0005\u0003\u0018": 1300,
+          "\u0008\u0005\u001a": 1308,
+          "\u0006\u0005\u0018": 1316,
+          "\u0003\u0018\u0018": 1324,
+          "\u0006\u0015\u001a": 1332,
+          "\u0008\u0003\u0018": 1340,
+          "\u000f\u0010\u0018": 1348,
+          "\u000f\u001b": 1356,
+          "\u0005\u001a": 1364,
+          "\u0005\u0002": 1372,
+          "\u000e\u0005\u0018": 1380,
+          "\u000f\u0005": 1388,
+          "\u0003\u0010\u0018": 1396,
+          "\u0008\u001b\u0018": 1404,
+          "\u000e\u0015\u0018": 1412,
+          "\u0003\u0015": 1420,
+          "\u0003\u0016": 1428,
+          "\u000f\u0010\u001a": 1436,
+          "\u0006\u001a\u001a": 1444,
+          "\u0003\u0016\u0018": 1452,
+          "\u000e\u0018\u0018": 1460,
+          "\u0006\u0018": 1468,
+          "\u0005\u0018": 1476,
+          "\u000f\u0017": 1484,
+          "\u000f\u0018": 1492,
+          "\u0002\u001a\u001a": 1500,
+          "\u0008\u001a\u0018": 1508,
+          "\u0006\u0010": 1516,
+          "\u000f\u0003\u0018": 1524,
+          "\u000e\u001b\u0018": 1532,
+          "\u0002\u001b\u0018": 1540,
+          "\u0003\u0003\u0018": 1548,
+          "\u0005\u000f\u001a": 1556,
+          "\u0006\u000f\u0018": 1564,
+          "\u000f\u0015\u001a": 1572,
+          "\u000e\u0010\u0018": 1580,
+          "\u000f\u0005\u001a": 1588,
+          "\u0005\u0019\u0018": 1596,
+          "\u0003\u0005": 1604,
+          "\u000f\u0016": 1612,
+          "\u0008\u0010": 1620,
+          "\u000e\u001a\u001a": 1628,
+          "\u000f\u001a\u0018": 1636,
+          "\u0005\u000f": 1644,
+          "\u000f\u0019": 1652,
+          "\u0008\u0015": 1660,
+          "\u0006\u0003\u0018": 1668,
+          "\u0003\u0010": 1676,
+          "\u000e\u0015": 1684,
+          "\u0005\u0016\u0018": 1692,
+          "\u000f\u001a": 1700,
+          "\u0006\u0016\u0018": 1708,
+          "\u0008\u001a": 1716,
+          "\u0003\u000f\u001a": 1724
+        },
+        "metadata": [],
+        "parent": "System.Object"
+      },
+      "\u000e\u0018": {
+        "fields": {
+          "\u0006": 16,
+          "\u0005": 8,
+          "\u0006": 24
+        },
+        "metadata": [],
+        "parent": "\u0002"
+      },
+      "\u000e\u0019": {
+        "fields": {
+          "\u0005": 8,
+          "\u000f": 20,
+          "\u0002": 21,
+          "\u0008": 16
+        },
+        "metadata": [],
+        "parent": ""
+      },
+      "\u000e\u001a\u0018+\u0002+\u0006": {
+        "fields": {
+          "\u0006": 8,
+          "\u0005": 16,
+          "\u000f": 24,
+          "\u0002": 32,
+          "\u0008": 56,
+          "\u0003": 57,
+          "\u000e": 58,
+          "\u0006\u0015": 59,
+          "\u0005\u0015": 60,
+          "\u000f\u0015": 61,
+          "\u0002\u0015": 40,
+          "\u0008\u0015": 48
+        },
+        "metadata": [],
+        "parent": "System.Object"
+      },
+      "\u000e\u001a\u0018+\u0002+\u000f": {
+        "fields": {
+          "\u0006": 48,
+          "\u0005": 8,
+          "\u000f": 52,
+          "\u0002": 16,
+          "\u0008": 24,
+          "\u0003": 32,
+          "\u000e": 40,
+          "\u0006\u0015": 56
+        },
+        "metadata": [],
+        "parent": "System.Object"
+      },
+      "\u000e\u001a\u0018+\u000f": {
+        "fields": {
+          "\u0006": 16,
+          "\u0005": 8,
+          "\u000f": 12
+        },
+        "metadata": [],
+        "parent": "System.Object"
+      },
+      "\u000e\u001b": {
+        "fields": {
+          "\u0006": 16,
+          "\u0005": 8,
+          "\u0006": 24
+        },
+        "metadata": [],
+        "parent": "\u0002"
+      },
+      "\u000f": {
+        "fields": {
+          "\u0006": 8,
+          "\u0005": 40,
+          "\u000f": 41,
+          "\u0002": 32,
+          "\u0008": 36,
+          "\u0003": 16,
+          "\u000e": 42,
+          "\u0006\u0015": 24
+        },
+        "metadata": [],
+        "parent": "System.Object"
+      },
+      "\u000f\u0002": {
+        "fields": {
+          "\u0006": 16,
+          "\u0005": 8,
+          "\u0006": 24
+        },
+        "metadata": [],
+        "parent": "\u0002"
+      },
+      "\u000f\u0003": {
+        "fields": {
+          "\u0006": 8
+        },
+        "metadata": [],
+        "parent": "System.Attribute"
+      },
+      "\u000f\u0005": {
+        "fields": {
+          "\u0006": 16,
+          "\u0005": 8,
+          "\u0006": 24
+        },
+        "metadata": [],
+        "parent": "\u0002"
+      },
+      "\u000f\u000f": {
+        "fields": {
+          "\u0006": 16,
+          "\u0005": 8,
+          "\u0006": 24
+        },
+        "metadata": [],
+        "parent": "\u0002"
+      },
+      "\u000f\u0015": {
+        "fields": {
+          "\u0006": 16,
+          "\u0005": 8,
+          "\u0006": 24,
+          "\u0006": 32,
+          "\u0005": 40
+        },
+        "metadata": [],
+        "parent": "\u0005\u0015"
+      },
+      "\u000f\u0016": {
+        "fields": {
+          "\u0006": 40,
+          "\u0005": 8,
+          "\u000f": 16,
+          "\u0002": 72,
+          "\u0008": 24,
+          "\u0003": 32,
+          "\u000e": 48,
+          "\u0006\u0015": 64,
+          "\u0005\u0015": 56,
+          "\u000f\u0015": 68
+        },
+        "metadata": [],
+        "parent": "System.Object"
+      },
+      "\u000f\u0016+\u0006": {
+        "fields": {
+          "\u0006": 8,
+          "\u0005": 9
+        },
+        "metadata": [],
+        "parent": "System.Object"
+      },
+      "\u000f\u0017": {
+        "fields": {
+          "\u0006": 8
+        },
+        "metadata": [],
+        "parent": "System.Object"
+      },
+      "\u000f\u0018": {
+        "fields": {
+          "\u0006": 16,
+          "\u0005": 32,
+          "\u000f": 33,
+          "\u0002": 8,
+          "\u0008": 24,
+          "\u0003": 28
+        },
+        "metadata": [],
+        "parent": "\u0003\u0015"
+      },
+      "\u000f\u0019": {
+        "fields": {
+          "\u0006": 16,
+          "\u0005": 8,
+          "\u0006": 24
+        },
+        "metadata": [],
+        "parent": "\u0002"
+      },
+      "\u000f\u001b": {
+        "fields": {
+          "_asyncActiveSemaphore": 8,
+          "\u0006": 32,
+          "\u0005": 36,
+          "\u000f": 40,
+          "\u0002": 16,
+          "\u0008": 24,
+          "\u0003": 44,
+          "\u000e": 64,
+          "\u0006\u0015": 65,
+          "\u0005\u0015": 66,
+          "\u000f\u0015": 67,
+          "\u0002\u0015": 48,
+          "\u0008\u0015": 68,
+          "\u0003\u0015": 52,
+          "\u000e\u0015": 56,
+          "\u0006\u000f": 60,
+          "\u0005\u000f": 69
+        },
+        "metadata": [],
+        "parent": "System.IO.Stream"
+      },
+      "\u000f+\u0006": {
+        "fields": {
+          "\u0006": 16,
+          "\u0005": 8
+        },
+        "metadata": [],
+        "parent": "System.Object"
+      },
+      "F+F": {
+        "fields": {
+          "handle": 8,
+          "_state": 16,
+          "_ownsHandle": 20,
+          "_fullyInitialized": 21
+        },
+        "metadata": [],
+        "parent": "Microsoft.Win32.SafeHandles.SafeHandleZeroOrMinusOneIsInvalid"
+      },
+      "F+U": {
+        "fields": {
+          "handle": 8,
+          "_state": 16,
+          "_ownsHandle": 20,
+          "_fullyInitialized": 21
+        },
+        "metadata": [],
+        "parent": "Microsoft.Win32.SafeHandles.SafeHandleZeroOrMinusOneIsInvalid"
+      },
+      "m": {
+        "fields": {
+          "\u0005\u000f": 168,
+          "\u0006\u0015": 8,
+          "\u0008\u001a": 16,
+          "\u0003\u0016": 24,
+          "\u000f\u0016": 32,
+          "\u0008": 172,
+          "\u0008\u0016": 40,
+          "\u000f\u001a": 180,
+          "\u0005\u0015": 144,
+          "\u0008\u000f": 48,
+          "\u0002": 176,
+          "\u0005\u0005": 56,
+          "\u0006\u0005": 64,
+          "\u0003": 72,
+          "\u000e\u0016": 80,
+          "\u0008\u0005": 88,
+          "\u0003\u001a": 181,
+          "\u0002\u0005": 182,
+          "\u0006": 96,
+          "\u000e": 104,
+          "\u0006\u0016": 112,
+          "\u000f\u000f": 120,
+          "\u0005\u001a": 128,
+          "\u0002\u000f": 136,
+          "\u0006\u001a": 152,
+          "\u0008\u0015": 160,
+          "\u0002\u001a": 184
+        },
+        "metadata": [],
+        "parent": "System.Object"
+      },
+      "m+\u0002": {
+        "fields": {
+          "\u0006": 16,
+          "\u0005": 8
+        },
+        "metadata": [],
+        "parent": "System.Object"
+      },
+      "m+\u0002\u0015`1": {
+        "fields": {
+          "\u0006": 8
+        },
+        "metadata": [],
+        "parent": "System.Object"
+      },
+      "m+\u0006\u0015": {
+        "fields": {
+          "_target": 8,
+          "_methodBase": 16,
+          "_methodPtr": 24,
+          "_methodPtrAux": 32,
+          "_invocationList": 40,
+          "_invocationCount": 48
+        },
+        "metadata": [],
+        "parent": "System.MulticastDelegate"
+      },
+      "m+\u000e\u0015+\u0002\u000f`8": {
+        "fields": {
+          "_target": 8,
+          "_methodBase": 16,
+          "_methodPtr": 24,
+          "_methodPtrAux": 32,
+          "_invocationList": 40,
+          "_invocationCount": 48
+        },
+        "metadata": [],
+        "parent": "System.MulticastDelegate"
+      },
+      "m+\u000e\u0015+\u0002\u0015`7": {
+        "fields": {
+          "_target": 8,
+          "_methodBase": 16,
+          "_methodPtr": 24,
+          "_methodPtrAux": 32,
+          "_invocationList": 40,
+          "_invocationCount": 48
+        },
+        "metadata": [],
+        "parent": "System.MulticastDelegate"
+      },
+      "m+\u000e\u0015+\u0002`6": {
+        "fields": {
+          "_target": 8,
+          "_methodBase": 16,
+          "_methodPtr": 24,
+          "_methodPtrAux": 32,
+          "_invocationList": 40,
+          "_invocationCount": 48
+        },
+        "metadata": [],
+        "parent": "System.MulticastDelegate"
+      },
+      "m+\u000e\u0015+\u0003\u000f`9": {
+        "fields": {
+          "_target": 8,
+          "_methodBase": 16,
+          "_methodPtr": 24,
+          "_methodPtrAux": 32,
+          "_invocationList": 40,
+          "_invocationCount": 48
+        },
+        "metadata": [],
+        "parent": "System.MulticastDelegate"
+      },
+      "m+\u000e\u0015+\u0003\u0015`9": {
+        "fields": {
+          "_target": 8,
+          "_methodBase": 16,
+          "_methodPtr": 24,
+          "_methodPtrAux": 32,
+          "_invocationList": 40,
+          "_invocationCount": 48
+        },
+        "metadata": [],
+        "parent": "System.MulticastDelegate"
+      },
+      "m+\u000e\u0015+\u0003`3": {
+        "fields": {
+          "_target": 8,
+          "_methodBase": 16,
+          "_methodPtr": 24,
+          "_methodPtrAux": 32,
+          "_invocationList": 40,
+          "_invocationCount": 48
+        },
+        "metadata": [],
+        "parent": "System.MulticastDelegate"
+      },
+      "m+\u000e\u0015+\u0005\u000f`6": {
+        "fields": {
+          "_target": 8,
+          "_methodBase": 16,
+          "_methodPtr": 24,
+          "_methodPtrAux": 32,
+          "_invocationList": 40,
+          "_invocationCount": 48
+        },
+        "metadata": [],
+        "parent": "System.MulticastDelegate"
+      },
+      "m+\u000e\u0015+\u0005\u0015`2": {
+        "fields": {
+          "_target": 8,
+          "_methodBase": 16,
+          "_methodPtr": 24,
+          "_methodPtrAux": 32,
+          "_invocationList": 40,
+          "_invocationCount": 48
+        },
+        "metadata": [],
+        "parent": "System.MulticastDelegate"
+      },
+      "m+\u000e\u0015+\u0005`4": {
+        "fields": {
+          "_target": 8,
+          "_methodBase": 16,
+          "_methodPtr": 24,
+          "_methodPtrAux": 32,
+          "_invocationList": 40,
+          "_invocationCount": 48
+        },
+        "metadata": [],
+        "parent": "System.MulticastDelegate"
+      },
+      "m+\u000e\u0015+\u0006\u000f`4": {
+        "fields": {
+          "_target": 8,
+          "_methodBase": 16,
+          "_methodPtr": 24,
+          "_methodPtrAux": 32,
+          "_invocationList": 40,
+          "_invocationCount": 48
+        },
+        "metadata": [],
+        "parent": "System.MulticastDelegate"
+      },
+      "m+\u000e\u0015+\u0006\u0015`7": {
+        "fields": {
+          "_target": 8,
+          "_methodBase": 16,
+          "_methodPtr": 24,
+          "_methodPtrAux": 32,
+          "_invocationList": 40,
+          "_invocationCount": 48
+        },
+        "metadata": [],
+        "parent": "System.MulticastDelegate"
+      },
+      "m+\u000e\u0015+\u0006`10": {
+        "fields": {
+          "_target": 8,
+          "_methodBase": 16,
+          "_methodPtr": 24,
+          "_methodPtrAux": 32,
+          "_invocationList": 40,
+          "_invocationCount": 48
+        },
+        "metadata": [],
+        "parent": "System.MulticastDelegate"
+      },
+      "m+\u000e\u0015+\u0008": {
+        "fields": {
+          "_target": 8,
+          "_methodBase": 16,
+          "_methodPtr": 24,
+          "_methodPtrAux": 32,
+          "_invocationList": 40,
+          "_invocationCount": 48
+        },
+        "metadata": [],
+        "parent": "System.MulticastDelegate"
+      },
+      "m+\u000e\u0015+\u0008\u000f`2": {
+        "fields": {
+          "_target": 8,
+          "_methodBase": 16,
+          "_methodPtr": 24,
+          "_methodPtrAux": 32,
+          "_invocationList": 40,
+          "_invocationCount": 48
+        },
+        "metadata": [],
+        "parent": "System.MulticastDelegate"
+      },
+      "m+\u000e\u0015+\u0008\u0015`1": {
+        "fields": {
+          "_target": 8,
+          "_methodBase": 16,
+          "_methodPtr": 24,
+          "_methodPtrAux": 32,
+          "_invocationList": 40,
+          "_invocationCount": 48
+        },
+        "metadata": [],
+        "parent": "System.MulticastDelegate"
+      },
+      "m+\u000e\u0015+\u000e\u0015`3": {
+        "fields": {
+          "_target": 8,
+          "_methodBase": 16,
+          "_methodPtr": 24,
+          "_methodPtrAux": 32,
+          "_invocationList": 40,
+          "_invocationCount": 48
+        },
+        "metadata": [],
+        "parent": "System.MulticastDelegate"
+      },
+      "m+\u000e\u0015+\u000e`5": {
+        "fields": {
+          "_target": 8,
+          "_methodBase": 16,
+          "_methodPtr": 24,
+          "_methodPtrAux": 32,
+          "_invocationList": 40,
+          "_invocationCount": 48
+        },
+        "metadata": [],
+        "parent": "System.MulticastDelegate"
+      },
+      "m+\u000e\u0015+\u000f\u000f`8": {
+        "fields": {
+          "_target": 8,
+          "_methodBase": 16,
+          "_methodPtr": 24,
+          "_methodPtrAux": 32,
+          "_invocationList": 40,
+          "_invocationCount": 48
+        },
+        "metadata": [],
+        "parent": "System.MulticastDelegate"
+      },
+      "m+\u000e\u0015+\u000f\u0015`1": {
+        "fields": {
+          "_target": 8,
+          "_methodBase": 16,
+          "_methodPtr": 24,
+          "_methodPtrAux": 32,
+          "_invocationList": 40,
+          "_invocationCount": 48
+        },
+        "metadata": [],
+        "parent": "System.MulticastDelegate"
+      },
+      "m+\u000e\u0015+\u000f`5": {
+        "fields": {
+          "_target": 8,
+          "_methodBase": 16,
+          "_methodPtr": 24,
+          "_methodPtrAux": 32,
+          "_invocationList": 40,
+          "_invocationCount": 48
+        },
+        "metadata": [],
+        "parent": "System.MulticastDelegate"
+      },
+      "m+\u000f": {
+        "fields": {
+          "_target": 8,
+          "_methodBase": 16,
+          "_methodPtr": 24,
+          "_methodPtrAux": 32,
+          "_invocationList": 40,
+          "_invocationCount": 48
+        },
+        "metadata": [],
+        "parent": "System.MulticastDelegate"
+      },
+      "m+\u000f\u0015": {
+        "fields": {
+          "\u0006": 8,
+          "\u0005": 16,
+          "\u000f": 24,
+          "\u0002": 32
+        },
+        "metadata": [],
+        "parent": "System.Object"
+      },
+      "osu.Game.Auth.Loader": {
+        "fields": {
+          "\u0006": 8,
+          "\u0005": 16,
+          "\u000f": 24
+        },
+        "metadata": [],
+        "parent": "System.Object"
+      },
+      "osu.Game.Auth.Medals.CourierCatapultAwarder": {
+        "fields": {
+          "\u0006": 32,
+          "\u0005": 8,
+          "\u000f": 16,
+          "\u0002": 24
+        },
+        "metadata": [],
+        "parent": "System.Object"
+      },
+      "osu.Game.Auth.Medals.CycloneAwarder": {
+        "fields": {
+          "\u0006": 24,
+          "\u0005": 8,
+          "\u000f": 16
+        },
+        "metadata": [],
+        "parent": "System.Object"
+      },
+      "osu.Game.Auth.Medals.HamsterWheelAwarder": {
+        "fields": {
+          "\u0006": 20,
+          "\u0005": 8,
+          "\u000f": 16
+        },
+        "metadata": [],
+        "parent": "System.Object"
+      },
+      "osu.Game.Auth.Medals.HotshotAwarder": {
+        "fields": {
+          "\u0006": 8
+        },
+        "metadata": [],
+        "parent": "System.Object"
+      },
+      "osu.Game.Auth.Medals.MedalAwarderContainer": {
+        "fields": {
+          "<TransformDelay>k__BackingField": 16,
+          "<RemoveCompletedTransforms>k__BackingField": 32,
+          "lastUpdateTransformsTime": 24,
+          "targetGroupingTrackers": 8,
+          "<renderer>k__BackingField": 40,
+          "<IsDisposed>k__BackingField": 320,
+          "unbindComplete": 321,
+          "loadState": 256,
+          "<LoadThread>k__BackingField": 48,
+          "LoadLock": 208,
+          "<ChildID>k__BackingField": 216,
+          "<IsAlive>k__BackingField": 322,
+          "depth": 260,
+          "OnUpdate": 56,
+          "OnLoadComplete": 64,
+          "Invalidated": 72,
+          "OnDispose": 80,
+          "OnUnbindAllBindables": 88,
+          "scheduler": 96,
+          "x": 264,
+          "y": 268,
+          "relativePositionAxes": 272,
+          "width": 276,
+          "height": 280,
+          "relativeSizeAxes": 284,
+          "drawSizeBacking": 104,
+          "bypassAutoSizeAxes": 288,
+          "bypassAutoSizeAdditionalAxes": 292,
+          "fillAspectRatio": 296,
+          "fillMode": 300,
+          "rotation": 304,
+          "origin": 308,
+          "anchor": 312,
+          "alpha": 316,
+          "alwaysPresent": 323,
+          "customClock": 112,
+          "clock": 120,
+          "ProcessCustomClock": 324,
+          "lifetimeStart": 224,
+          "lifetimeEnd": 232,
+          "LifetimeChanged": 128,
+          "parent": 136,
+          "proxy": 144,
+          "<IsMaskedAway>k__BackingField": 325,
+          "maskingBacking": 152,
+          "screenSpaceDrawQuadBacking": 160,
+          "drawInfoBacking": 168,
+          "drawColourInfoBacking": 176,
+          "requiredParentSizeToFitBacking": 184,
+          "layoutList": 192,
+          "<InvalidationID>k__BackingField": 240,
+          "drawNodes": 200,
+          "<RequestsNonPositionalInput>k__BackingField": 326,
+          "<RequestsPositionalInput>k__BackingField": 327,
+          "RequestsNonPositionalInputSubTree": 328,
+          "RequestsPositionalInputSubTree": 329,
+          "<HasFocus>k__BackingField": 330,
+          "<IsHovered>k__BackingField": 331,
+          "<IsDragged>k__BackingField": 332,
+          "Name": 248,
+          "lastMaskingBounds": 336,
+          "margin": 356,
+          "scale": 372,
+          "shear": 380,
+          "customOrigin": 388,
+          "customRelativeAnchorPosition": 396,
+          "colour": 404,
+          "blending": 472,
+          "invalidationList": 496,
+          "\u0006": 512,
+          "\u0005": 520,
+          "\u000f": 528,
+          "\u0002": 536,
+          "\u0008": 544,
+          "\u0003": 552,
+          "\u000e": 560
+        },
+        "metadata": [],
+        "parent": "osu.Framework.Graphics.Component"
+      },
+      "osu.Game.Auth.Medals.MedalAwarderContainer+\u0005": {
+        "fields": {
+          "\u0006": 8,
+          "\u0005": 16,
+          "\u000f": 24
+        },
+        "metadata": [],
+        "parent": "System.Object"
+      },
+      "osu.Game.Auth.Medals.UnlockMedalRequest": {
+        "fields": {
+          "API": 8,
+          "WebRequest": 16,
+          "<User>k__BackingField": 24,
+          "Success": 32,
+          "Failure": 40,
+          "completionStateLock": 48,
+          "<CompletionState>k__BackingField": 56,
+          "\u0006": 64
+        },
+        "metadata": [],
+        "parent": "osu.Game.Online.API.APIRequest"
+      },
+      "osu.Game.Auth.StartupLogger": {
+        "fields": {
+          "\u0006": 8,
+          "\u0005": 16
+        },
+        "metadata": [],
+        "parent": "System.Object"
+      },
+      "osu.Game.Auth.StartupLogger+\u0005": {
+        "fields": {
+          "\u0006": 8,
+          "\u0005": 16
+        },
+        "metadata": [],
+        "parent": "System.Object"
+      },
+      "osu.Game.Auth.StartupLogger+\u0006": {
+        "fields": {
+          "\u0006": 8,
+          "\u0005": 16
+        },
+        "metadata": [],
+        "parent": "System.Object"
+      },
+      "osu.Game.Auth.UpdateRequest": {
+        "fields": {
+          "<FileName>k__BackingField": 8,
+          "<CurrentHash>k__BackingField": 16,
+          "<PlatformId>k__BackingField": 24,
+          "<IsTachyon>k__BackingField": 28
+        },
+        "metadata": [],
+        "parent": "System.Object"
+      },
+      "osu.Game.Auth.UpdateResponse": {
+        "fields": {
+          "<Url>k__BackingField": 8,
+          "<Checksum>k__BackingField": 16,
+          "<Restart>k__BackingField": 24
+        },
+        "metadata": [],
+        "parent": "System.Object"
+      },
+      "osu.Game.Auth.Updater": {
+        "fields": {
+          "\u0006": 8,
+          "\u0005": 16,
+          "\u000f": 24,
+          "\u0002": 32,
+          "\u0008": 40,
+          "\u0003": 48,
+          "\u0006\u0015": 56,
+          "\u0005\u0015": 64,
+          "\u000e": 72
+        },
+        "metadata": [],
+        "parent": "System.Object"
+      }
+    },
+    "enums": {
+      "\u0008\u0002+\u0006": {
+        "Value": 0
+      }
+    }
+  }
+}

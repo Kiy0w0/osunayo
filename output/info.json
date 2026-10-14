@@ -1,0 +1,15 @@
+{
+  "game_version": "2026.1005.0",
+  "build_number": "2026.1005.0",
+  "source": "osunayo",
+  "timestamp": 1791949524,
+  "assemblies": [
+    "osu.Framework.dll",
+    "osu.Game.dll",
+    "osu.Game.Rulesets.Osu.dll",
+    "osu.Game.Rulesets.Mania.dll",
+    "osu.Game.Rulesets.Taiko.dll",
+    "osu.Game.Rulesets.Catch.dll",
+    "osu.Game.Auth.dll"
+  ]
+}
